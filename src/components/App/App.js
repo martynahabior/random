@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import Random from '../Random/Random';
 
 class App extends Component {
     render () {
         return (
-            <div>Random</div>
+         <Random />
         )
     }
 }
